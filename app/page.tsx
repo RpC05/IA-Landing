@@ -419,10 +419,10 @@ export default function AcademicProfessorAwwwards() {
 
   const teamMembers = [
     { name: "Acevedo Villena Dylan", role: "Desarrollador Principal", image: "/dylan.jpg" },
-    { name: "Padilla Rios Orlando", role: "Desarrollador", image: "/orlando.jpg" },
-    { name: "Palomino Cuenca Jaime", role: "Desarrollador", image: "/jaime.jpg" },
     { name: "Aguilar Blas Javier", role: "Desarrollador", image: "/javier.jpg" },
     { name: "Guevara Villalobos Gino", role: "Desarrollador", image: "/gino.jpg" },
+    { name: "Padilla Rios Orlando", role: "Desarrollador", image: "/orlando.jpg" },
+    { name: "Palomino Cuenca Jaime", role: "Desarrollador", image: "/jaime.jpg" },
   ]
 
   const technologies = ["Python", "Streamlit", "XGBoost", "Pandas", "Scikit-learn", "Joblib"]
