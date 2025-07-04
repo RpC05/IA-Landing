@@ -461,7 +461,7 @@ export default function AcademicProfessorAwwwards() {
                 Probar la Aplicación
               </Button>
             </a>
-            <a href="https://github.com/eddyacv/IA" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/javierUPAO/IA-PrediccionRendimientoAcademico" target="_blank" rel="noopener noreferrer">
               <Button className="neon-button-secondary px-8 py-4 text-lg font-bold">
                 <Github className="w-5 h-5 mr-2" />
                 Ver en GitHub
